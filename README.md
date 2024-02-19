@@ -1,4 +1,4 @@
-#Pokemon Automation
+##Pokemon Automation
 This Lua script is designed to be run using the mGBA emulator with a Pokemon FireRed ROM. The script will run around in a circle while out of combat and will spam the A button while in battle. This is meant to be something simple to help beginners get started with Lua scripting and understand how to interact with the game.
 
 ## Getting Started
