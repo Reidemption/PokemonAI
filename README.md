@@ -13,3 +13,8 @@ Official mGBA Lua scripting documentation can be found [here](https://mgba.io/do
 
 Official mGBA github repository can be found [here](https://github.com/mgba-emu/mgba). This is a great resource to learn about the source code of the emulator and how it works. You can also find more example Lua scripts in the `res/scripts` folder.
 
+Bulbapedia resources:
+
+[Pokemon Gen 3 data structures](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_data_structure_(Generation_III)#Data_location)
+
+[Various Mapped RAM Values In FireRed](https://www.pokecommunity.com/threads/rom-hacking-resources.193327/page-10#post-6856053)
